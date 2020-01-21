@@ -1,0 +1,9 @@
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\bin\Debug\etanol_x_gasolina.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\bin\Debug\etanol_x_gasolina.exe
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\bin\Debug\etanol_x_gasolina.pdb
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.Form1.resources
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.Properties.Resources.resources
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.csproj.GenerateResource.cache
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.exe
+C:\Users\rodrigo.gsantana1\Desktop\aula_prog\etanol_x_gasolina\etanol_x_gasolina\obj\Debug\etanol_x_gasolina.pdb
